@@ -1,8 +1,5 @@
 # Hi, I'm Aditya Rampal 👋
-
-**Turning my mechanical dreams into robotic reality, and this is just the beginning.**
-
-Roboticist, polyglot, dancer, and a big fan of space stuff.
+Id am .... a **Roboticist, polyglot, dancer, and a big fan of space stuff.**
 
 ## 🛠️ Current
 
