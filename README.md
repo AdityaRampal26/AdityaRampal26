@@ -7,7 +7,7 @@ Roboticist, polyglot, dancer, and a big fan of space stuff 🚀
 ## 🛠️ Current
 
 - **Manufacturing Development Test Engineer, Amazon Robotics** 📦
-  Bringing robots from the lab to the line: multi-sensor calibration (thermal, depth and RGB cameras), radar chip programming, and robotic-arm automation that keeps it all repeatable.
+  Helping new robots make the leap from prototype to production, one precisely tuned sensor at a time.
 
 ## 🔬 Research Experience
 
