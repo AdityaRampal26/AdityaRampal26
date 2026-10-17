@@ -1,5 +1,5 @@
 # Hi, I'm Aditya Rampal 👋
-Id am .... a **Roboticist, polyglot, dancer, and a big fan of space stuff.**
+I am .... a **Roboticist, polyglot, dancer, and a big fan of space stuff.**
 
 ## 🛠️ Current
 
