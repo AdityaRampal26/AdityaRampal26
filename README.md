@@ -7,7 +7,8 @@ Roboticist, polyglot, dancer, and a big fan of space stuff 🚀
 ## 🛠️ Current
 
 - **Manufacturing Development Test Engineer, Amazon Robotics** 📦
-    Helping new robots make the leap from prototype to production, one precisely tuned sensor at a time.
+
+  Helping new robots make the leap from prototype to production, one precisely tuned sensor at a time.
 
 ## 🔬 Research Experience
 
